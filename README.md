@@ -1,4 +1,5 @@
 # HDL-Verilog
+                        By: Priyanshu M
 Portfolio For Hardware Descriptive Language: HDL VERILOG Language
 
-IT Contains Begineer's Friendly Design Examples.
+It Contains Begineer's Friendly Design Examples.
